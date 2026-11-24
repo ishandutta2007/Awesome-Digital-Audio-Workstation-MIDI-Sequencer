@@ -1,255 +1,182 @@
-# Awesome-Digital-Audio-Workstation-MIDI-Sequencer
+<p align="center">
+  <img src="./assets/banner.svg" alt="Awesome Digital Audio Workstation & MIDI Sequencer Banner" width="100%" />
+</p>
 
-markdown
+# 🎹 Awesome Digital Audio Workstation (DAW) & MIDI Sequencer 🎚️
 
-## Top Digital Audio Workstation & MIDI Sequencer Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer?style=social" alt="GitHub Forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+---
 
+## 🧭 Overview & Ecosystem Introduction
 
-**Curated List of SaaS/Hosted Platforms & Open-Source GitHub Projects**  
+A curated collection of top-tier **Digital Audio Workstations (DAWs)**, **MIDI Sequencers**, **Cloud Studio SaaS Platforms**, and **Open-Source Music Production Software**. Whether you are an electronic music producer, audio DSP engineer, game audio composer, or Linux audio enthusiast, this repository indexes the best tools for multi-track audio recording, algorithmic MIDI generation, tracker sequencing, virtual instrument sound design, and cloud music collaboration.
 
-*Focused on Digital Audio Workstations (DAWs), MIDI Sequencers, Tracker & Pattern Composers, Browser-Based Music Studios & Open-Source Audio Production*  
+---
 
-**Last updated: November 2026**
+## 📈 Sector Overview & Market Dynamics
 
+The global Digital Audio Workstation (DAW) and music creation software market is valued at approximately **$3.1 Billion** (projected to reach over **$5.4 Billion** by 2032 with a ~7.2% CAGR). The market structure exhibits a **moderately fragmented yet tiered** competitive dynamic: traditional pro-audio desktop recording remains concentrated among established industry giants (Avid, Apple, Ableton, Yamaha/Steinberg, and Image-Line), while the rapid emergence of WebAudio, browser-based cloud collaboration, and mobile-first composition (BandLab, Soundtrap, Audiotool) has unlocked millions of bedroom creators and hobbyists alongside a resilient, highly innovative open-source ecosystem (Audacity, LMMS, Ardour, Zrythm).
 
+---
 
-This repository tracks notable **SaaS/hosted platforms** and **open-source projects** for **Digital Audio Workstations & MIDI Sequencers**. These tools record, sequence, arrange, synthesize, mix, and master multi-track audio and MIDI compositions across browser-based cloud studios, cross-platform desktop DAWs, modular live-coding environments, and pattern-based MIDI trackers.
+## 📋 Table of Contents
 
+- [🎹 Awesome Digital Audio Workstation (DAW) & MIDI Sequencer 🎚️](#-awesome-digital-audio-workstation-daw--midi-sequencer-️)
+  - [🧭 Overview & Ecosystem Introduction](#-overview--ecosystem-introduction)
+  - [📈 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+  - [📋 Table of Contents](#-table-of-contents)
+  - [☁️ SaaS & Hosted Cloud Music Studios](#️-saas--hosted-cloud-music-studios)
+  - [💻 Open-Source DAWs & MIDI Sequencer Software](#-open-source-daws--midi-sequencer-software)
+    - [🏆 Open-Source Repositories (Ranked by GitHub Stars)](#-open-source-repositories-ranked-by-github-stars)
+    - [🔬 Category & Architecture Highlights](#-category--architecture-highlights)
+  - [🤝 How to Contribute](#-how-to-contribute)
+  - [🌟 Star History](#-star-history)
+  - [💖 Support & Sponsorship](#-support--sponsorship)
+  - [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-**Examples** include Soundtrap, BandLab, Audiotool, Soundation, Amped Studio, AudioSauna, FL Studio Cloud, Roland Cloud, Pro Tools Cloud, Ableton Cloud, and nota-daw/nota (the category leaders and popular runtimes). 
+## ☁️ SaaS & Hosted Cloud Music Studios
 
+*The SaaS/hosted music studio platforms below are sorted descending by company scale (market valuation / parent enterprise revenue).*
 
+| Platform | Description | Scale (Valuation / Revenue) | Pricing | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Avid Pro Tools Cloud](https://avid.com)** | Industry-standard post-production and commercial recording DAW with Avid Cloud Collaboration. | **~$1.4B Valuation** (Acquired by STG for $1.4B; ~$400M+ ARR) | Starts at **$9.99/mo** (Pro Tools Artist) or **$99/yr** | **30-Day Free Trial** (Fully unlocked Pro Tools Ultimate trial with 1GB cloud collaboration storage, requires Avid account). |
+| **[Roland Cloud](https://roland.com)** | Cloud ecosystem delivering authentic ACB component modeling of classic Roland synthesizers, Zenology, and patch libraries. | **~$900M Market Cap** (Roland Corp TYO: 7944, ~$650M+ annual revenue) | Starts at **$2.99/mo** or **$29.99/yr** (Core plan) | **Free Forever Tier**: Roland Cloud Core Free account grants Zenology Lite with 182 instrument presets and limited software rhythm tools; plus a **30-Day Pro/Ultimate Trial**. |
+| **[Ableton Cloud](https://ableton.com)** | Cloud-sync service transferring Ableton Note mobile sketches and Live Sets seamlessly across studio desktop workstations. | **~$500M+ Est. Valuation** (~$120M+ annual revenue) | Starts at **$99 one-time** (Live 12 Intro) or **$6.99 one-time** (Ableton Note iOS) | **30-Day Free Trial** (Complete, unrestricted access to Ableton Live 12 Suite including cloud sync, saving, and stem exports for 30 days). |
+| **[Soundtrap](https://soundtrap.com)** | Browser-based collaborative online recording DAW and loop-sequencer suite (developed within Spotify's audio ecosystem). | **~$450M Est. Valuation** (Acquired by Spotify NYSE: SPOT; ~$35M+ ARR) | Starts at **$9.99/mo** or **$119.88/yr** (Music Maker plan) | **Free Forever Tier**: Unlimited projects, 5,500+ loops, 490+ virtual instruments/sounds, and standard audio export; plus **14-day free trial** for premium tiers. |
+| **[BandLab](https://bandlab.com)** | Mobile and browser multi-track cloud DAW featuring real-time multiplayer co-creation, virtual instruments, and AutoPitch. | **$425M Valuation** (Post-Series B round; 100M+ registered creators) | Starts at **$14.95/mo** or **$149.50/yr** (BandLab Membership) | **Free Forever Tier**: 100% Free unlimited multi-track recording, unlimited cloud project storage, 16 tracks, 330+ MIDI instruments, and royalty-free loops without feature paywalls. |
+| **[FL Studio Cloud](https://image-line.com)** | Cloud ecosystem integrated directly into FL Studio providing curated sample libraries, cloud sound packs, and AI mastering. | **~$350M+ Est. Valuation** (~$60M+ annual revenue, Image-Line Software) | Starts at **$9.99/mo** or **$79.99/yr** (FL Cloud Pro) | **Free Forever Tier**: Unlimited basic AI mastering and curated free sound library access with any FL Studio license; plus **30-day all-access free trial** of FL Cloud Pro. |
+| **[Audiotool](https://audiotool.com)** | Modular collaborative web DAW with virtual analog synthesizers, drum machines, effect stompboxes, and wire-patch routing. | **~$25M Est. Valuation** (Venture-backed by targeted audio angels; ~$3M ARR) | Starts at **$4.99/mo** or **$49/yr** (Audiotool Pro) | **Free Forever Tier**: Free cloud DAW with unlimited public cloud project saves, real-time collaboration, and complete access to all modular instruments (Pro adds private stems & uncompressed audio). |
+| **[Soundation](https://soundation.com)** | Browser-based cloud beat studio with multi-track sequencing, virtual synths, live multi-user collaboration, and audio loops. | **~$15M Est. Valuation** (~$2.5M ARR) | Starts at **$9.99/mo** or **$59.88/yr** (Creator plan) | **Free Forever Tier**: Up to 3 active studio projects, 700+ royalty-free loops, and standard audio export resolution. |
+| **[Amped Studio](https://ampedstudio.com)** | WebAssembly-powered web DAW supporting hybrid audio/MIDI tracks, Web VST hosting, hum-to-MIDI pitch detection, and cloud stems. | **~$8M Est. Valuation** (~$1.2M ARR) | Starts at **$4.99/mo** or **$49.99/yr** (Premium plan) | **Free Forever Tier**: Free access to core audio/MIDI sequencer, standard virtual instruments, and cloud storage; plus **14-day free trial** of Premium VST hosting. |
+| **[AudioSauna](https://audiosauna.com)** | Classic browser synthesizer and MIDI piano roll workstation featuring FM synthesis and step sequencer architecture. | **~$1.5M Est. Valuation** (Independent audio development studio) | **100% Free** (Completely community web-hosted / ad-supported) | **Free Forever Tier**: Unlimited browser-based synthesis and multi-track MIDI sequencing without subscription fees or paywalls. |
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for full-featured open-source DAWs (`Ardour`, `LMMS`, `Zrythm`, `MusE`, `Qtractor`, `Rosegarden`), modern & tracker-style MIDI sequencers (`nota-daw/nota`, `Helio Workstation`, `Bosca Ceoil`, `Renoise-style trackers like MilkyTracker / OpenMPT`), and node-based & browser audio workstations (`Bespoke Synth`, `Audacity`, `WAM / WebAudio DAWs`) — ideal for music producers, composers, Linux audio enthusiasts, and audio DSP engineers.
+---
 
+## 💻 Open-Source DAWs & MIDI Sequencer Software
 
+Open-source music production tools provide full control over DSP routing, zero vendor lock-in, customizable MIDI scripting, and native Linux audio support (via PipeWire, JACK, ALSA, and LV2/CLAP).
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+### 🏆 Open-Source Repositories (Ranked by GitHub Stars)
 
+The following repositories are strictly sorted in descending order by GitHub star count:
 
+1. **[Audacity](https://github.com/audacity/audacity)** [![GitHub stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers)  
+   The world's most ubiquitous cross-platform open-source multi-track audio editor and recorder, featuring non-destructive editing, spectral analysis, Nyquist Lisp DSP scripting, and VST3/LV2 plugin compatibility.
+   
+2. **[MuseScore](https://github.com/musescore/MuseScore)** [![GitHub stars](https://img.shields.io/github/stars/musescore/MuseScore?style=social&color=white)](https://github.com/musescore/MuseScore/stargazers)  
+   Leading open-source musical score typesetter, sheet music notation composer, and MIDI sequencer equipped with the advanced Muse Sounds realistic orchestral synthesis engine.
 
-## Table of Contents
+3. **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
+   Interactive Web Audio framework and browser MIDI sequencing engine used globally to build interactive browser DAWs, polyphonic synths, transport scheduling, and generative sound machines.
 
-- [SaaS/Hosted Platforms](#saashosted-platforms)
+4. **[Sonic Pi](https://github.com/sonic-pi-net/sonic-pi)** [![GitHub stars](https://img.shields.io/github/stars/sonic-pi-net/sonic-pi?style=social&color=white)](https://github.com/sonic-pi-net/sonic-pi/stargazers)  
+   The code-based music composition and live-coding synthesizer powerhouse designed for live algorithmic performance, hardware MIDI sequencing, and educational audio DSP.
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+5. **[LMMS](https://github.com/LMMS/lmms)** [![GitHub stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
+   Comprehensive FL Studio-style cross-platform digital audio workstation bundling a Beat+Bassline Editor, piano roll MIDI sequencer, built-in synthesizers (ZynAddSubFX, TripleOscillator), SoundFont support, and VST plugin hosting.
 
-- [How to Contribute](#how-to-contribute)
+6. **[Ardour](https://github.com/Ardour/ardour)** [![GitHub stars](https://img.shields.io/github/stars/Ardour/ardour?style=social&color=white)](https://github.com/Ardour/ardour/stargazers)  
+   Flagship professional multi-channel digital audio workstation supporting non-linear audio recording, unlimited track buses, complex MIDI sequencing, video timeline synchronization, and LV2/LADSPA/VST3/AU architecture.
 
-- [Support & Share](#support--share)
+7. **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
+   Dynamic modular software synthesizer and node-based DAW canvas where musicians dynamically wire together MIDI step sequencers, chord quantizers, macro arpeggiators, audio samplers, and VST3 plugins in real time.
 
-- [Disclaimer](#disclaimer)
+8. **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
+   Legendary open-source hybrid MPE-compatible synthesizer with extensive wavetable oscillators, flexible modulation matrix, built-in step sequencers, and complete VST3/CLAP/LV2 integration.
 
+9. **[Helio Workstation](https://github.com/helio-fm/helio-sequencer)** [![GitHub stars](https://img.shields.io/github/stars/helio-fm/helio-sequencer?style=social&color=white)](https://github.com/helio-fm/helio-sequencer/stargazers)  
+   Sleek, cross-platform linear MIDI sequencer built with JUCE, featuring scale-aware microtonal piano-roll editing, Git-like project version control timelines, and a modern vector GUI.
 
+10. **[Zrythm](https://github.com/zrythm/zrythm)** [![GitHub stars](https://img.shields.io/github/stars/zrythm/zrythm?style=social&color=white)](https://github.com/zrythm/zrythm/stargazers)  
+    Highly automated, intuitive modern DAW engineered in C/C++ offering chord assistance pads, per-clip automation curves, flexible mixer routing graphs, and native LV2/CLAP/VST3 support.
 
-## SaaS/Hosted Platforms
+11. **[Strudel](https://github.com/tidalcycles/strudel)** [![GitHub stars](https://img.shields.io/github/stars/tidalcycles/strudel?style=social&color=white)](https://github.com/tidalcycles/strudel/stargazers)  
+    Web-based algorithmic live-coding music sequencer bringing TidalCycles rhythmic pattern language straight to the browser with WebMIDI output and audio sample sequencing.
 
+12. **[JACK2](https://github.com/jackaudio/jack2)** [![GitHub stars](https://img.shields.io/github/stars/jackaudio/jack2?style=social&color=white)](https://github.com/jackaudio/jack2/stargazers)  
+    The premier low-latency pro-audio and MIDI connection kit enabling seamless sample-accurate audio and MIDI inter-application routing across Linux and macOS.
 
+13. **[Carla](https://github.com/falkTX/Carla)** [![GitHub stars](https://img.shields.io/github/stars/falkTX/Carla?style=social&color=white)](https://github.com/falkTX/Carla/stargazers)  
+    Versatile modular audio plugin host and visual patchbay bridging VST2, VST3, CLAP, LV2, AU, and SoundFont instruments with JACK, PipeWire, and ALSA MIDI graphs.
 
-- **[BandLab](https://bandlab.com)**  
+14. **[PipeWire](https://github.com/PipeWire/pipewire)** [![GitHub stars](https://img.shields.io/github/stars/PipeWire/pipewire?style=social&color=white)](https://github.com/PipeWire/pipewire/stargazers)  
+    Modern low-latency multimedia routing daemon providing high-performance, unified real-time audio and MIDI processing for pro-audio Linux workstations.
 
-  Cloud-based social Digital Audio Workstation and mobile/web recording studio featuring unlimited multi-track cloud storage, virtual MIDI instruments, AutoPitch, and real-time collaboration.
+15. **[MilkyTracker](https://github.com/milkytracker/MilkyTracker)** [![GitHub stars](https://img.shields.io/github/stars/milkytracker/MilkyTracker?style=social&color=white)](https://github.com/milkytracker/MilkyTracker/stargazers)  
+    Fasttracker II compatible pattern-based music tracker for chiptune, demoscene, and sample-based MIDI composition with custom pitch envelopes and modular XM playback.
 
+16. **[Giada](https://github.com/monocasual/giada)** [![GitHub stars](https://img.shields.io/github/stars/monocasual/giada?style=social&color=white)](https://github.com/monocasual/giada/stargazers)  
+    Hardcore loop machine, audio sampler, and live MIDI sequencer engineered for live electronic performances with ultra-low latency audio processing and VST3 support.
 
+17. **[Mido](https://github.com/mido/mido)** [![GitHub stars](https://img.shields.io/github/stars/mido/mido?style=social&color=white)](https://github.com/mido/mido/stargazers)  
+    Robust Python library for parsing, generating, and streaming MIDI files and real-time MIDI hardware messages for custom algorithmic sequencers and music scripts.
 
-- **[Soundtrap (by Flat / Spotify alumnus ecosystem)](https://soundtrap.com)**  
+18. **[Bosca Ceoil Blue](https://github.com/YuriSizov/boscaceoil-blue)** [![GitHub stars](https://img.shields.io/github/stars/YuriSizov/boscaceoil-blue?style=social&color=white)](https://github.com/YuriSizov/boscaceoil-blue/stargazers)  
+    Approachable, beginner-friendly pattern-based MIDI sequencer and retro music maker revived and rebuilt in the Godot Engine, tailored for indie game developers.
 
-  Browser-based collaborative online DAW enabling musicians, podcasters, and students to record audio, sequence MIDI loops, and co-edit projects in real time across devices.
+19. **[MusE Sequencer](https://github.com/muse-sequencer/muse)** [![GitHub stars](https://img.shields.io/github/stars/muse-sequencer/muse?style=social&color=white)](https://github.com/muse-sequencer/muse/stargazers)  
+    Battle-tested open-source Linux Audio and MIDI multi-track sequencer with real-time recording, score editing, sysex events, and LV2/VST plugin integration.
 
+20. **[OpenMPT](https://github.com/OpenMPT/openmpt)** [![GitHub stars](https://img.shields.io/github/stars/OpenMPT/openmpt?style=social&color=white)](https://github.com/OpenMPT/openmpt/stargazers)  
+    Highly acclaimed Windows tracker and modular MIDI composer supporting IT, XM, S3M, MOD formats, alongside modern VST plugins and ASIO low-latency drivers.
 
+21. **[Qtractor](https://github.com/rncbc/qtractor)** [![GitHub stars](https://img.shields.io/github/stars/rncbc/qtractor?style=social&color=white)](https://github.com/rncbc/qtractor/stargazers)  
+    Multi-track Audio/MIDI sequencer application engineered in C++ with Qt, purpose-built around JACK/ALSA low-latency audio subsystems and standard MIDI file processing.
 
-- **[Audiotool](https://audiotool.com)**  
+22. **[Seq66](https://github.com/ahlstromcj/seq66)** [![GitHub stars](https://img.shields.io/github/stars/ahlstromcj/seq66?style=social&color=white)](https://github.com/ahlstromcj/seq66/stargazers)  
+    Live-looping pattern-based MIDI sequencer (modern reboot of Seq24) optimized for live hardware synth manipulation, controller mapping, and headless Raspberry Pi rigs.
 
-  Modular browser-based music production studio featuring virtual drum machines, synthesizers, stompboxes, cable-patching routing, and cloud sample/track publishing.
+---
 
+### 🔬 Category & Architecture Highlights
 
+- **Full Multi-Track Audio & MIDI DAWs**: Combine **Ardour**, **Zrythm**, or **LMMS** for complete timeline recording, VST3/LV2 plugin chains, and automation.
+- **Pattern & Tracker Composition**: Use **OpenMPT**, **MilkyTracker**, or **Bosca Ceoil Blue** for fast tracker-style and chiptune sequencing.
+- **Modular Patching & Live Coding**: Deploy **Bespoke Synth** or **Sonic Pi** for generative chord progressions and algorithmic MIDI manipulation.
+- **Web Audio & Developer Toolkits**: Build custom cloud DAWs using **Tone.js** (WebAudio), **Strudel** (browser live coding), and **Mido** (Python MIDI processing).
 
-- **[Soundation](https://soundation.com)**  
+---
 
-  Online cloud DAW and beat-making studio offering multi-track MIDI sequencing, built-in synthesizers, real-time collaborative sessions, and royalty-free loop libraries.
+## 🤝 How to Contribute
 
+Contributions, project additions, and updates are welcomed!
 
+1. **Fork** the repository on GitHub.
+2. **Add or update** entries in `README.md` maintaining proper table or list formatting.
+3. Ensure every SaaS entry includes specific starting price tiers and free tier/trial limits.
+4. For open-source additions, include the official GitHub star badge linking to `/stargazers`.
+5. Open a **Pull Request** with a brief summary of the added tool.
 
-- **[Amped Studio](https://ampedstudio.com)**  
+---
 
-  Web-based DAW supporting hybrid audio/MIDI tracks, WebAssembly VST plugin hosting, hum-to-MIDI detection, and cloud project sharing.
+## 🌟 Star History
 
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer&type=date&legend=top-left)
 
+---
 
-- **[FL Studio Cloud (Image-Line)](https://image-line.com)**  
+## 💖 Support & Sponsorship
 
-  Cloud service integrated directly into FL Studio providing royalty-free sample libraries, AI-powered mastering, and cloud plugin/project ecosystem tools.
+Thank you for exploring and using this curated directory! If this ecosystem guide has helped your music production workflow, sound design projects, or open-source audio research, please consider supporting the project:
 
+- ⭐ **Star this repository** to help other musicians and audio developers discover it.
+- 🍴 **Fork and share** with audio communities on Discord, Reddit (`r/audioengineering`, `r/synthesizers`, `r/linuxaudio`), and X/Twitter.
+- ☕ **Sponsor or buy me a coffee**: Support ongoing maintenance, research, and curation through the **[GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)**!
 
+---
 
-- **[Ableton Cloud & Ableton Live](https://ableton.com)**  
+## ⚖️ Disclaimer
 
-  Cloud project-sync service seamlessly transferring Ableton Note ideas and Live Sets across iOS, macOS, and Windows studio workstations.
-
-
-
-- **[Avid Pro Tools & Avid Cloud Collaboration](https://avid.com)**  
-
-  Industry-standard post-production and recording DAW offering cloud project storage, remote track-sharing collaboration, and Dolby Atmos mixing.
-
-
-
-- **[Roland Cloud](https://roland.com)**  
-
-  Subscription cloud ecosystem delivering authentic ACB software recreations of classic Roland synthesizers (TR-808, TB-303, Juno-106), Zenology, and cloud rhythm/MIDI tools.
-
-
-
-- **[AudioSauna (Legacy / Web Synth & Sequencer)](https://audiosauna.com)**  
-
-  Browser-based audio workstation combining polyphonic analog/FM synthesizers, live effects, and a multi-track MIDI piano-roll sequencer in the browser.
-
-
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[nota-daw/nota](https://github.com)**  
-
-  Open-source Digital Audio Workstation and MIDI sequencer project engineered for clean, modern music composition, intuitive sequencing, and streamlined audio production workflows.
-
-
-
-- **[Ardour (`Ardour/ardour`)](https://github.com)**  
-
-  Flagship professional open-source Digital Audio Workstation for Linux, macOS, and Windows offering unlimited multi-track audio/MIDI recording, non-destructive editing, video timeline sync, and VST3/LV2/AU hosting.
-
-
-
-- **[LMMS (`LMMS/lmms`)](https://github.com)**  
-
-  Cross-platform open-source music production suite (FL Studio-style pattern workflow) bundling a Beat+Bassline Editor, Piano Roll MIDI sequencer, built-in synthesizers (ZynAddSubFX), and VST support.
-
-
-
-- **[Zrythm (`zrythm/zrythm`)](https://github.com)**  
-
-  Modern, highly automated open-source DAW written in C/C++ featuring smart chord pads, per-clip automation lanes, modular mixer routing, and full LV2/VST2/VST3/CLAP/SFZ support.
-
-
-
-- **[Helio Workstation (`helio-fm/helio-workstation`)](https://github.com)**  
-
-  Sleek, cross-platform open-source linear MIDI sequencer built with JUCE featuring microtonal/scale-aware piano rolls, version-controlled project timelines, and clean vector UI.
-
-
-
-- **[Bespoke Synth (`BespokeSynth/BespokeSynth`)](https://github.com)**  
-
-  Software modular DAW and live-patching canvas allowing musicians to wire together MIDI sequencers, arpeggiators, synthesizers, and VST3/LV2 effects dynamically in real time.
-
-
-
-- **[Qtractor (`rncbc/qtractor`) & MusE (`muse-sequencer/muse`)](https://github.com)**  
-
-  Battle-tested open-source Linux Audio/MIDI multi-track sequencers built around JACK/PipeWire low-latency audio, SMF (Standard MIDI File) editing, and LV2/CLAP/VST plugin hosting.
-
-
-
-- **[Rosegarden (`tedfelix/rosegarden` / SourceForge)](https://rosegardenmusic.com)**  
-
-  Classic open-source music composition and MIDI sequencing environment pairing multi-track MIDI/audio recording with a full-featured musical notation score editor.
-
-
-
-- **[Audacity (`audacity/audacity`)](https://github.com)**  
-
-  World's most popular open-source cross-platform multi-track audio editor and recorder featuring non-destructive clips, spectrogram view, Nyquist scripting, and VST3/LV2 effects.
-
-
-
-- **[OpenMPT (`OpenMPT/openmpt`) & MilkyTracker (`milkytracker/MilkyTracker`)](https://github.com)**  
-
-  Premier open-source pattern-based music trackers and MIDI/sample sequencers powering chiptune, demoscene, and electronic tracker composition.
-
-
-
-- **[Seq66 (`ahlstromcj/seq66`) & Giada (`monocasual/giada`)](https://github.com)**  
-
-  Lightweight, live-performance open-source loop-based MIDI sequencer (`Seq66`, evolved from Seq24) and minimalist hardcore loop machine/DAW (`Giada`) built for live electronic sets.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Bosca Ceoil Blue (`YuriSizov/boscaceoil-blue`)](https://github.com)** for an approachable, beginner-friendly open-source pattern-based MIDI music maker ported to Godot Engine for indie game soundtracks.
-
-- **[Carla (`falkTX/Carla`)](https://github.com)** for an indispensable open-source audio plugin host and modular patchbay bridging VST2/VST3, CLAP, LV2, AU, SF2/SFZ, and JACK/PipeWire MIDI routing.
-
-- **[PipeWire (`PipeWire/pipewire`) & JACK (`jackaudio/jack2`)](https://github.com)** for foundational low-latency pro-audio and MIDI routing graphs on Linux workstations.
-
-- **[Sonic Pi (`sonic-pi-net/sonic-pi`)](https://github.com)** and **[Strudel (`tidalcycles/strudel`)](https://github.com)** for open-source live-coding music sequencers and algorithmic MIDI/synth performance tools running on desktop and in browsers.
-
-- **[Mido (`mido/mido`) & Tone.js (`Tonejs/Tone.js`)](https://github.com)** for open-source Python and browser WebAudio/WebMIDI libraries enabling custom MIDI sequencers and browser DAWs.
-
-
-
-**Frameworks for building custom systems**: Combine **Ardour** or **Zrythm** for full multi-track recording and mixing, **LMMS** or **Helio Workstation** for pattern and MIDI piano-roll composition, **Bespoke Synth + Carla** for modular live-patching, and **Strudel / Tone.js** for browser-based MIDI sequencing.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS/hosted or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Support & Share
-
-
-
-If you find this curated list helpful, consider supporting the project:
-
-
-
-- ⭐ **Star this repository** to help others discover it.
-
-- 🍴 **Fork & Share** it with your team, friends, or community on X/Twitter, LinkedIn, and Reddit.
-
-- ☕ **Buy me a coffee / Sponsor** my open-source work on [GitHub Sponsors](https://github.com) — featuring tiers for profile badges, README shoutouts, logo placements, and prioritized bug fixes/features!
-
-
-
-[![Sponsor @ishandutta2007](https://shields.io)](https://github.com)
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Low-latency real-time audio recording and MIDI sequencing require properly configured audio drivers (ASIO on Windows, CoreAudio on macOS, PipeWire/JACK with real-time scheduling on Linux) to avoid buffer xruns and audio dropouts.
-
-Use code with caution.
-
-• Always back up raw WAV stems, project files (.ardour, .mmpz, .zrythm), and exported Standard MIDI Files (.mid) separately so compositions remain portable across DAWs.
-
-Made for music producers, composers, Linux audio enthusiasts, game audio creators, and open-source contributors.
-
-Let's make Digital Audio Workstations and MIDI sequencers more open, low-latency, and accessible.
+- This is a community-curated directory intended strictly for educational, research, and informational purposes. Product names, logos, and brands are property of their respective owners.
+- Professional real-time audio and MIDI performance requires proper audio driver configuration (ASIO on Windows, CoreAudio on macOS, and PipeWire/JACK with real-time audio permissions on Linux) to prevent buffer dropouts (xruns).
+- Always maintain offsite backups of project files (.ardour, .mmpz, .zrythm) and exported Standard MIDI Files (.mid) to preserve composition portability across digital audio workstations.
