@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Digital-Audio-Workstation-MIDI-Sequencer/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -34,7 +34,7 @@ The global Digital Audio Workstation (DAW) and music creation software market is
   - [📋 Table of Contents](#-table-of-contents)
   - [☁️ SaaS & Hosted Cloud Music Studios](#️-saas--hosted-cloud-music-studios)
   - [💻 Open-Source DAWs & MIDI Sequencer Software](#-open-source-daws--midi-sequencer-software)
-    - [🏆 Open-Source Repositories (Ranked by GitHub Stars)](#-open-source-repositories-ranked-by-github-stars)
+    - [🏆 Open-Source Repositories (Ranked by GitHub_Stars)](#-open-source-repositories-ranked-by-github-stars)
     - [🔬 Category & Architecture Highlights](#-category--architecture-highlights)
   - [🤝 How to Contribute](#-how-to-contribute)
   - [🌟 Star History](#-star-history)
@@ -66,74 +66,74 @@ The global Digital Audio Workstation (DAW) and music creation software market is
 
 Open-source music production tools provide full control over DSP routing, zero vendor lock-in, customizable MIDI scripting, and native Linux audio support (via PipeWire, JACK, ALSA, and LV2/CLAP).
 
-### 🏆 Open-Source Repositories (Ranked by GitHub Stars)
+### 🏆 Open-Source Repositories (Ranked by GitHub_Stars)
 
-The following repositories are strictly sorted in descending order by GitHub star count:
+The following repositories are strictly sorted in descending order by GitHub Stars_Count:
 
-1. **[Audacity](https://github.com/audacity/audacity)** [![GitHub stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers)  
+1. **[Audacity](https://github.com/audacity/audacity)** [![GitHub_Stars](https://img.shields.io/github/stars/audacity/audacity?style=social&color=white)](https://github.com/audacity/audacity/stargazers)  
    The world's most ubiquitous cross-platform open-source multi-track audio editor and recorder, featuring non-destructive editing, spectral analysis, Nyquist Lisp DSP scripting, and VST3/LV2 plugin compatibility.
    
-2. **[MuseScore](https://github.com/musescore/MuseScore)** [![GitHub stars](https://img.shields.io/github/stars/musescore/MuseScore?style=social&color=white)](https://github.com/musescore/MuseScore/stargazers)  
+2. **[MuseScore](https://github.com/musescore/MuseScore)** [![GitHub_Stars](https://img.shields.io/github/stars/musescore/MuseScore?style=social&color=white)](https://github.com/musescore/MuseScore/stargazers)  
    Leading open-source musical score typesetter, sheet music notation composer, and MIDI sequencer equipped with the advanced Muse Sounds realistic orchestral synthesis engine.
 
-3. **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
+3. **[Tone.js](https://github.com/Tonejs/Tone.js)** [![GitHub_Stars](https://img.shields.io/github/stars/Tonejs/Tone.js?style=social&color=white)](https://github.com/Tonejs/Tone.js/stargazers)  
    Interactive Web Audio framework and browser MIDI sequencing engine used globally to build interactive browser DAWs, polyphonic synths, transport scheduling, and generative sound machines.
 
-4. **[Sonic Pi](https://github.com/sonic-pi-net/sonic-pi)** [![GitHub stars](https://img.shields.io/github/stars/sonic-pi-net/sonic-pi?style=social&color=white)](https://github.com/sonic-pi-net/sonic-pi/stargazers)  
+4. **[Sonic Pi](https://github.com/sonic-pi-net/sonic-pi)** [![GitHub_Stars](https://img.shields.io/github/stars/sonic-pi-net/sonic-pi?style=social&color=white)](https://github.com/sonic-pi-net/sonic-pi/stargazers)  
    The code-based music composition and live-coding synthesizer powerhouse designed for live algorithmic performance, hardware MIDI sequencing, and educational audio DSP.
 
-5. **[LMMS](https://github.com/LMMS/lmms)** [![GitHub stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
+5. **[LMMS](https://github.com/LMMS/lmms)** [![GitHub_Stars](https://img.shields.io/github/stars/LMMS/lmms?style=social&color=white)](https://github.com/LMMS/lmms/stargazers)  
    Comprehensive FL Studio-style cross-platform digital audio workstation bundling a Beat+Bassline Editor, piano roll MIDI sequencer, built-in synthesizers (ZynAddSubFX, TripleOscillator), SoundFont support, and VST plugin hosting.
 
-6. **[Ardour](https://github.com/Ardour/ardour)** [![GitHub stars](https://img.shields.io/github/stars/Ardour/ardour?style=social&color=white)](https://github.com/Ardour/ardour/stargazers)  
+6. **[Ardour](https://github.com/Ardour/ardour)** [![GitHub_Stars](https://img.shields.io/github/stars/Ardour/ardour?style=social&color=white)](https://github.com/Ardour/ardour/stargazers)  
    Flagship professional multi-channel digital audio workstation supporting non-linear audio recording, unlimited track buses, complex MIDI sequencing, video timeline synchronization, and LV2/LADSPA/VST3/AU architecture.
 
-7. **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
+7. **[Bespoke Synth](https://github.com/BespokeSynth/BespokeSynth)** [![GitHub_Stars](https://img.shields.io/github/stars/BespokeSynth/BespokeSynth?style=social&color=white)](https://github.com/BespokeSynth/BespokeSynth/stargazers)  
    Dynamic modular software synthesizer and node-based DAW canvas where musicians dynamically wire together MIDI step sequencers, chord quantizers, macro arpeggiators, audio samplers, and VST3 plugins in real time.
 
-8. **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
+8. **[Surge XT](https://github.com/surge-synthesizer/surge)** [![GitHub_Stars](https://img.shields.io/github/stars/surge-synthesizer/surge?style=social&color=white)](https://github.com/surge-synthesizer/surge/stargazers)  
    Legendary open-source hybrid MPE-compatible synthesizer with extensive wavetable oscillators, flexible modulation matrix, built-in step sequencers, and complete VST3/CLAP/LV2 integration.
 
-9. **[Helio Workstation](https://github.com/helio-fm/helio-sequencer)** [![GitHub stars](https://img.shields.io/github/stars/helio-fm/helio-sequencer?style=social&color=white)](https://github.com/helio-fm/helio-sequencer/stargazers)  
+9. **[Helio Workstation](https://github.com/helio-fm/helio-sequencer)** [![GitHub_Stars](https://img.shields.io/github/stars/helio-fm/helio-sequencer?style=social&color=white)](https://github.com/helio-fm/helio-sequencer/stargazers)  
    Sleek, cross-platform linear MIDI sequencer built with JUCE, featuring scale-aware microtonal piano-roll editing, Git-like project version control timelines, and a modern vector GUI.
 
-10. **[Zrythm](https://github.com/zrythm/zrythm)** [![GitHub stars](https://img.shields.io/github/stars/zrythm/zrythm?style=social&color=white)](https://github.com/zrythm/zrythm/stargazers)  
+10. **[Zrythm](https://github.com/zrythm/zrythm)** [![GitHub_Stars](https://img.shields.io/github/stars/zrythm/zrythm?style=social&color=white)](https://github.com/zrythm/zrythm/stargazers)  
     Highly automated, intuitive modern DAW engineered in C/C++ offering chord assistance pads, per-clip automation curves, flexible mixer routing graphs, and native LV2/CLAP/VST3 support.
 
-11. **[Strudel](https://github.com/tidalcycles/strudel)** [![GitHub stars](https://img.shields.io/github/stars/tidalcycles/strudel?style=social&color=white)](https://github.com/tidalcycles/strudel/stargazers)  
+11. **[Strudel](https://github.com/tidalcycles/strudel)** [![GitHub_Stars](https://img.shields.io/github/stars/tidalcycles/strudel?style=social&color=white)](https://github.com/tidalcycles/strudel/stargazers)  
     Web-based algorithmic live-coding music sequencer bringing TidalCycles rhythmic pattern language straight to the browser with WebMIDI output and audio sample sequencing.
 
-12. **[JACK2](https://github.com/jackaudio/jack2)** [![GitHub stars](https://img.shields.io/github/stars/jackaudio/jack2?style=social&color=white)](https://github.com/jackaudio/jack2/stargazers)  
+12. **[JACK2](https://github.com/jackaudio/jack2)** [![GitHub_Stars](https://img.shields.io/github/stars/jackaudio/jack2?style=social&color=white)](https://github.com/jackaudio/jack2/stargazers)  
     The premier low-latency pro-audio and MIDI connection kit enabling seamless sample-accurate audio and MIDI inter-application routing across Linux and macOS.
 
-13. **[Carla](https://github.com/falkTX/Carla)** [![GitHub stars](https://img.shields.io/github/stars/falkTX/Carla?style=social&color=white)](https://github.com/falkTX/Carla/stargazers)  
+13. **[Carla](https://github.com/falkTX/Carla)** [![GitHub_Stars](https://img.shields.io/github/stars/falkTX/Carla?style=social&color=white)](https://github.com/falkTX/Carla/stargazers)  
     Versatile modular audio plugin host and visual patchbay bridging VST2, VST3, CLAP, LV2, AU, and SoundFont instruments with JACK, PipeWire, and ALSA MIDI graphs.
 
-14. **[PipeWire](https://github.com/PipeWire/pipewire)** [![GitHub stars](https://img.shields.io/github/stars/PipeWire/pipewire?style=social&color=white)](https://github.com/PipeWire/pipewire/stargazers)  
+14. **[PipeWire](https://github.com/PipeWire/pipewire)** [![GitHub_Stars](https://img.shields.io/github/stars/PipeWire/pipewire?style=social&color=white)](https://github.com/PipeWire/pipewire/stargazers)  
     Modern low-latency multimedia routing daemon providing high-performance, unified real-time audio and MIDI processing for pro-audio Linux workstations.
 
-15. **[MilkyTracker](https://github.com/milkytracker/MilkyTracker)** [![GitHub stars](https://img.shields.io/github/stars/milkytracker/MilkyTracker?style=social&color=white)](https://github.com/milkytracker/MilkyTracker/stargazers)  
+15. **[MilkyTracker](https://github.com/milkytracker/MilkyTracker)** [![GitHub_Stars](https://img.shields.io/github/stars/milkytracker/MilkyTracker?style=social&color=white)](https://github.com/milkytracker/MilkyTracker/stargazers)  
     Fasttracker II compatible pattern-based music tracker for chiptune, demoscene, and sample-based MIDI composition with custom pitch envelopes and modular XM playback.
 
-16. **[Giada](https://github.com/monocasual/giada)** [![GitHub stars](https://img.shields.io/github/stars/monocasual/giada?style=social&color=white)](https://github.com/monocasual/giada/stargazers)  
+16. **[Giada](https://github.com/monocasual/giada)** [![GitHub_Stars](https://img.shields.io/github/stars/monocasual/giada?style=social&color=white)](https://github.com/monocasual/giada/stargazers)  
     Hardcore loop machine, audio sampler, and live MIDI sequencer engineered for live electronic performances with ultra-low latency audio processing and VST3 support.
 
-17. **[Mido](https://github.com/mido/mido)** [![GitHub stars](https://img.shields.io/github/stars/mido/mido?style=social&color=white)](https://github.com/mido/mido/stargazers)  
+17. **[Mido](https://github.com/mido/mido)** [![GitHub_Stars](https://img.shields.io/github/stars/mido/mido?style=social&color=white)](https://github.com/mido/mido/stargazers)  
     Robust Python library for parsing, generating, and streaming MIDI files and real-time MIDI hardware messages for custom algorithmic sequencers and music scripts.
 
-18. **[Bosca Ceoil Blue](https://github.com/YuriSizov/boscaceoil-blue)** [![GitHub stars](https://img.shields.io/github/stars/YuriSizov/boscaceoil-blue?style=social&color=white)](https://github.com/YuriSizov/boscaceoil-blue/stargazers)  
+18. **[Bosca Ceoil Blue](https://github.com/YuriSizov/boscaceoil-blue)** [![GitHub_Stars](https://img.shields.io/github/stars/YuriSizov/boscaceoil-blue?style=social&color=white)](https://github.com/YuriSizov/boscaceoil-blue/stargazers)  
     Approachable, beginner-friendly pattern-based MIDI sequencer and retro music maker revived and rebuilt in the Godot Engine, tailored for indie game developers.
 
-19. **[MusE Sequencer](https://github.com/muse-sequencer/muse)** [![GitHub stars](https://img.shields.io/github/stars/muse-sequencer/muse?style=social&color=white)](https://github.com/muse-sequencer/muse/stargazers)  
+19. **[MusE Sequencer](https://github.com/muse-sequencer/muse)** [![GitHub_Stars](https://img.shields.io/github/stars/muse-sequencer/muse?style=social&color=white)](https://github.com/muse-sequencer/muse/stargazers)  
     Battle-tested open-source Linux Audio and MIDI multi-track sequencer with real-time recording, score editing, sysex events, and LV2/VST plugin integration.
 
-20. **[OpenMPT](https://github.com/OpenMPT/openmpt)** [![GitHub stars](https://img.shields.io/github/stars/OpenMPT/openmpt?style=social&color=white)](https://github.com/OpenMPT/openmpt/stargazers)  
+20. **[OpenMPT](https://github.com/OpenMPT/openmpt)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenMPT/openmpt?style=social&color=white)](https://github.com/OpenMPT/openmpt/stargazers)  
     Highly acclaimed Windows tracker and modular MIDI composer supporting IT, XM, S3M, MOD formats, alongside modern VST plugins and ASIO low-latency drivers.
 
-21. **[Qtractor](https://github.com/rncbc/qtractor)** [![GitHub stars](https://img.shields.io/github/stars/rncbc/qtractor?style=social&color=white)](https://github.com/rncbc/qtractor/stargazers)  
+21. **[Qtractor](https://github.com/rncbc/qtractor)** [![GitHub_Stars](https://img.shields.io/github/stars/rncbc/qtractor?style=social&color=white)](https://github.com/rncbc/qtractor/stargazers)  
     Multi-track Audio/MIDI sequencer application engineered in C++ with Qt, purpose-built around JACK/ALSA low-latency audio subsystems and standard MIDI file processing.
 
-22. **[Seq66](https://github.com/ahlstromcj/seq66)** [![GitHub stars](https://img.shields.io/github/stars/ahlstromcj/seq66?style=social&color=white)](https://github.com/ahlstromcj/seq66/stargazers)  
+22. **[Seq66](https://github.com/ahlstromcj/seq66)** [![GitHub_Stars](https://img.shields.io/github/stars/ahlstromcj/seq66?style=social&color=white)](https://github.com/ahlstromcj/seq66/stargazers)  
     Live-looping pattern-based MIDI sequencer (modern reboot of Seq24) optimized for live hardware synth manipulation, controller mapping, and headless Raspberry Pi rigs.
 
 ---
@@ -154,7 +154,7 @@ Contributions, project additions, and updates are welcomed!
 1. **Fork** the repository on GitHub.
 2. **Add or update** entries in `README.md` maintaining proper table or list formatting.
 3. Ensure every SaaS entry includes specific starting price tiers and free tier/trial limits.
-4. For open-source additions, include the official GitHub star badge linking to `/stargazers`.
+4. For open-source additions, include the official GitHub Stars_Badge linking to `/stargazers`.
 5. Open a **Pull Request** with a brief summary of the added tool.
 
 ---
